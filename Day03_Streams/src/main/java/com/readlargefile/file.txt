@@ -1,0 +1,4 @@
+Hello, this line is line
+Hii, this line contains a error
+Hey, how are you
+My name is Error
